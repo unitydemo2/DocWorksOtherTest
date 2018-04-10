@@ -8,8 +8,6 @@ With each Unity release, the Unity documentation changes to reflect this, so mak
 
 The version of the documentation which accompanies the current full release of Unity is always available online at __[docs.unity3d.co__m](http://docs.unity3d.com/).
 
-this is a whole new kind of test.
-
 ### Installer (offline) documentation
 
 As well as using the online documentation, you can install it locally on your computer when you install the Unity software. Prior to Unity 5.3, the documentation was *always* installed along with the software. From version 5.3 onwards, you can choose whether to install the documentation locally via the [Unity Download Assistant](http://docs.google.com/InstallingUnity).
