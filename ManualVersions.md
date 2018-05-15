@@ -8,7 +8,7 @@ With each Unity release, the Unity documentation changes to reflect this, so mak
 
 The version of the documentation which accompanies the current full release of Unity is always available online at __[docs.unity3d.co__m](http://docs.unity3d.com/).
 
-test
+This is a new example
 
 ### Installer (offline) documentation
 
